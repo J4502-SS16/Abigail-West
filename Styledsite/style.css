@@ -3,7 +3,7 @@ body{
 }
 
 .logo{
-  width:100px;
+  width:60px;
   border-style:none;
   float:left;
   margin: 0 5px 0 0;
@@ -21,15 +21,15 @@ h1{
 }
 
 #sidebar{
-  /*background-color: #ddd;*/
+  background-color: #add8e6;
   width:200px;
   float:right;
 }
 
 #footer{
-  background-color: #eded78;
+  background-color: yellow;
   clear:both;
-  color: green;
+  color: blue;
 }
 
 #footer a:link, #footer a:visited{
@@ -54,7 +54,7 @@ h1{
 #nav a:link, #nav a:visited{
   font-weight: bold;
   color:#fff;
-  background-color: #98bf21;
+  background-color: #0000ff;
   display:block;
   width:125px;
   text-align:center;
@@ -64,5 +64,5 @@ h1{
 }
 
 #nav a:hover, #nav a:active{
-  background-color: #7a991a
+  background-color: yellow;
 }
